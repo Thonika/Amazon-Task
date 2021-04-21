@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AmazonTestScript">
+<test name="OrderPhone">
+<classes>
+<class name= "AmazonUsingTestng.OrderPhone_UsingTestng"/>
+</classes>
+</test>
+</suite>

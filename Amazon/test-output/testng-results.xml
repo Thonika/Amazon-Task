@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AmazonTestScript" duration-ms="11469" started-at="2021-04-05T16:27:14Z" finished-at="2021-04-05T16:27:25Z">
+    <groups>
+    </groups>
+    <test name="OrderPhone" duration-ms="11469" started-at="2021-04-05T16:27:14Z" finished-at="2021-04-05T16:27:25Z">
+      <class name="AmazonUsingTestng.OrderPhone_UsingTestng">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="OpenBrowser" is-config="true" duration-ms="7919" started-at="2021-04-05T21:57:06Z" finished-at="2021-04-05T21:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="SearchItem()[pri:1, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="SearchItem" duration-ms="2355" started-at="2021-04-05T21:57:14Z" finished-at="2021-04-05T21:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItem -->
+        <test-method status="PASS" signature="newWindow()[pri:2, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="newWindow" duration-ms="46" started-at="2021-04-05T21:57:16Z" finished-at="2021-04-05T21:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWindow -->
+        <test-method status="PASS" signature="AddItemToCart()[pri:3, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="AddItemToCart" duration-ms="3402" started-at="2021-04-05T21:57:16Z" finished-at="2021-04-05T21:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemToCart -->
+        <test-method status="PASS" signature="OpenCart()[pri:4, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="OpenCart" duration-ms="3649" started-at="2021-04-05T21:57:19Z" finished-at="2021-04-05T21:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenCart -->
+        <test-method status="PASS" signature="ClickProceedtoBuy()[pri:5, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="ClickProceedtoBuy" duration-ms="2004" started-at="2021-04-05T21:57:23Z" finished-at="2021-04-05T21:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickProceedtoBuy -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:AmazonUsingTestng.OrderPhone_UsingTestng@2aafb23c]" name="closeBrowser" is-config="true" duration-ms="1243" started-at="2021-04-05T21:57:25Z" finished-at="2021-04-05T21:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- AmazonUsingTestng.OrderPhone_UsingTestng -->
+    </test> <!-- OrderPhone -->
+  </suite> <!-- AmazonTestScript -->
+</testng-results>
